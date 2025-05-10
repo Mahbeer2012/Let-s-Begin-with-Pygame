@@ -19,3 +19,5 @@ while not done:
 
 # make the changes visible
     pygame.display.flip()
+    pygame.quit()
+    
